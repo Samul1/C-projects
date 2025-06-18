@@ -1,10 +1,17 @@
 # C-projects
+
 - This is my tutorial serie to C-programming language.
 - Follow along and solve coding **missions** as they come up!
+
+## Lisense
+
+- This repo is made for everyone whom whis to learn C, so feel free to fork this repository and follow along the tutorials.
 
 ## SetUp
 
 **1.**  Download [Visual Studio Code](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) or [Visual Studio](https://code.visualstudio.com/Download)
+
+## VSC ->
 
 **2.** Install [MSYS2](https://www.msys2.org/)
 
