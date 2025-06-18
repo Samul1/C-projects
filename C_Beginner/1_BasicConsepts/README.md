@@ -6,7 +6,9 @@
 # Welcome to C!
 In this repository you will learn how to create real programs in C, perform various operations, solve real challenges, and much more!
 
-# Output
+# 1. Basic Consepts
+
+# 💻 Output
 Most computer programs are designed to produce outputs. Here are some examples:
 
 - "You've got a new message" notifications
@@ -55,7 +57,7 @@ int main() {
 # ⭐ Try first your first coding challenge ⭐
 
 - Now is your time to solve **Mission 1**!
-- You can access it at **BasicConsepts/Mission_1_1.c**
+- You can access it at **BasicConsepts/Mission_1.c**
 
 # Program Structure
 - Let's look at the code of the whole program and learn about all the code statements and what they do.
@@ -128,7 +130,7 @@ Remember the following important points:
 # ⭐ Try your second coding challenge ⭐
 
 - Now is your time to solve **Mission 2**!
-- You can access it at **BasicConsepts/Mission_1_2.c**
+- You can access it at **BasicConsepts/Mission_2.c**
 
 # Output Formatting
 
@@ -256,7 +258,7 @@ int main() {
 # ⭐ Try your third coding challenge ⭐
 
 - Now is your time to solve **Mission 3**!
-- You can access it at **BasicConsepts/Mission_1_3.c**
+- You can access it at **BasicConsepts/Mission_3.c**
 
 # Variables
 
@@ -352,7 +354,7 @@ int main() {
 # ⭐ Try your fourth coding challenge ⭐
 
 - Now is your time to solve **Mission 4**!
-- You can access it at **BasicConsepts/Mission_1_4.c**
+- You can access it at **BasicConsepts/Mission_4.c**
 
 # Data Types
 
@@ -486,7 +488,7 @@ int main() {
 # ⭐ Try your fifth coding challenge ⭐
 
 - Now is your time to solve **Mission 5**!
-- You can access it at **BasicConsepts/Mission_1_5.c**
+- You can access it at **BasicConsepts/Mission_5.c**
 
 # ➕➖ Doing Math ✖️➗
 
@@ -607,7 +609,7 @@ int main() {
 # ⭐ Try your sixth coding challenge ⭐
 
 - Now is your time to solve **Mission 6**!
-- You can access it at **BasicConsepts/Mission_1_6.c**
+- You can access it at **BasicConsepts/Mission_6.c**
 
 # ⁉️ Comments ⁉️
 
@@ -690,9 +692,13 @@ int main() {
 # ⭐ Try your last coding challenge for this module! ⭐
 
 - Now is your time to solve **Mission 7**!
-- You can access it at **BasicConsepts/Mission_1_7.c**
+- You can access it at **BasicConsepts/Mission_7.c**
 
 # 💀 Great Job. Are you ready for the BOSS of this module? 💀
 
 - Try to solve **Boss 1**
-- You can access it at **BasicConsepts/Mission_1_BOSS.c**
+- You can access it at **BasicConsepts/Mission_BOSS_1.c**
+
+# Did you beat the first BOSS?
+
+- Avesome! Now it is time for you to move forward to Conditionals and Loops!
